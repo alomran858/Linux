@@ -4,11 +4,11 @@ This is a set up for Linux server with security settings, a running web server, 
 
 
 ## IP address 
-IP: 35.180.124.55
-Port: 2300 
+IP: 35.180.99.83
+Port: 2200 
 
 ## URL
-http://35.180.124.55.xip.io
+http://35.180.99.83.xip.io
 
 ## Summary
 * Started a new Ubuntu Linux server instance on Amazon Lightsail. 
